@@ -62,8 +62,6 @@ client.channels.cache.get(client.config.tagKanal).send({ embeds: [embedTag1], co
 } 
 return
 } 
-return
-}
 
 if (oldUser.discriminator == client.config.etiketTag) {
 
@@ -90,6 +88,10 @@ return
 return
 }
   
+return
+}
+
+
 if (oldUser.username != newUser.username) {
   
 if (client.config.isimTag != "Yok") {
