@@ -1,4 +1,6 @@
 const { Client, CommandInteraction, MessageEmbed } = require("discord.js");
+const { createDatabase } = require("whisky.db");
+const db = new createDatabase()
 
 module.exports = {
     name: "tag",
