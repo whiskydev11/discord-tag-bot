@@ -30,7 +30,7 @@ client.on('debug', (limit) => {
 /*
 
 * @description Genel Sistemi Yazıyoruz.
-* @developer Flessi#1000
+* @developer Whisky#0001
 
 */
 
