@@ -20,4 +20,4 @@ komutunu kullanarak botu aktif edebilirsiniz.
 
 ## İletişim
 
-Discord: Flessi#1000
+Discord: Whisky#0001
